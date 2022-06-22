@@ -1,8 +1,8 @@
 # Project report
 
 #### Name : Nuridah Binti Sapee-e
-#### Matric No: 1828074
-#### Title of the web application: myReminder
+#### Matric No : 1828074
+#### Title of the web application : myReminder
 
 ## 1. Introduction
 In our daily life, we only have twenty-four hours. As a result, it could be challenging to manage all our tasks in a single day. This imposes constraints on our day-to-day job. Time management is essential for balancing work, social life, and sleep. Time division is required to assist the individual in completing all of their responsibilities. Thus, a timetable should be created for the individual's duties. Students usually must complete a variety of assignments and it is often difficult for them to keep track of their tasks. Their ability to manage their time has become critical. As a result, effective time management is essential.
