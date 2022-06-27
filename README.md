@@ -38,9 +38,15 @@ To protect the file, the environment(.env) variable App Debug is set to false to
 
 ## 4. Reference
 Laravel Framework 8.46.0
+
 Laravel - The PHP Framework For Web Artisans. (2022). Laravel. https://laravel.com/docs/7.x/authentication
+
 Laravel - The PHP Framework For Web Artisans. (2022b). Laravel. https://laravel.com/docs/9.x/authorization
+
 A. (2022, March 3). Laravel 9 Crud Step by Step. Tutusfunny. https://www.tutussfunny.com/laravel-9/
+
 Log in & Registration in Laravel 8.x : Laravel/ui - Bootstrap. (2021, September 17). [Video]. YouTube. https://www.youtube.com/watch?v=Agx4xITyYgQ&t=564s
+
 Authorization & Authentication | Login & Register System In Laravel | Laravel For Beginners. (2021, February 8). [Video]. YouTube. https://www.youtube.com/watch?v=XCrmk1bKxf4
+
 Laravel: 3 Ways to Protect Records from Access By Other Users. (2022, February 4). [Video]. YouTube. https://www.youtube.com/watch?v=lq57_NMoL6A
