@@ -28,7 +28,7 @@ Front-end and back-end validation are used in the application to validate input.
    ### 3.4 XSS and CSRF Prevention
 
    ### 3.5 Database Security Principles
-To prevent database got sql injection, the regex expression is implemented in this app by validate user input to  make usre it does not contain SQL syntax.
+To prevent database get sql injection, the regex expression is implemented in this app by validate user input to make sure it does not contain SQL syntax before it save into database and the function are applied in controller(remindercontroller.php).
 
    ### 3.6 File Security Principles
 To protect the file, the environment(.env) variable App Debug is set to false to prevent the web application from displaying error messages containing sensitive code. Beside, all file are saved in php language to prevent file leak to unauthorized access. There is a file named htaccess in the public folder that has been updated to prevent directory traversal.
