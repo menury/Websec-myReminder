@@ -25,7 +25,7 @@ Front-end and back-end validation are used in the application to validate input.
 Before gaining access to the application, users must first register and login with their registered email and password. During registration, the user must have a unique password that combines letters, numbers, and a special character with minimum password length 8 characters.
 
    ### 3.3 Authorization
-
+The server-side authorization and policy are used before allow user to store, edit and delete the reminder. The policy are created in order to prevent authorized access in reminderpolicy.php.
 
    ### 3.4 XSS and CSRF Prevention
 Blade {{ }} statements are used automatically sent through PHP's htmlentities function to prevent XSS attacks. Beside that, CSRF token is placed the field containing the CSRF token as early as possible within the HTML file. 
