@@ -19,7 +19,7 @@ The project objectives are:
 
 ## 3. Web Application Security Enhancement
    ### 3.1 Input Validation
-           Front-end and back-end validation are used in the application to validate input.HTML patterns are used on the client side to check input in the files create.blade.php and edit.blade.php. In server side, regex expressions are utilised on the server side for back-end validation, and they are used in the controller (ReminderController.php) for function updating and storing.
+   ####Front-end and back-end validation are used in the application to validate input.HTML patterns are used on the client side to check input in the files create.blade.php and edit.blade.php. In server side, regex expressions are utilised on the server side for back-end validation, and they are used in the controller (ReminderController.php) for function updating and storing.
    ### 3.2 Authentication
          
    ### 3.3 Authorization
