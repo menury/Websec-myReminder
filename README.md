@@ -26,6 +26,7 @@ Front-end and back-end validation are used in the application to validate input.
    ### 3.3 Authorization
    -
    ### 3.4 XSS and CSRF Prevention
+Blade {{ }} statements are used automatically sent through PHP's htmlentities function to prevent XSS attacks. Beside that, CSRF token is placed the field containing the CSRF token as early as possible within the HTML file. 
 
    ### 3.5 Database Security Principles
 To prevent database get sql injection, the regex expression is implemented in this app by validate user input to make sure it does not contain SQL syntax before it save into database and the function are applied in controller(remindercontroller.php).
